@@ -1,2 +1,2 @@
 # PCI
-Digital design of PCI in Verliog
+Digital design of PCI in Verilog
