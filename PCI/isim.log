@@ -1,0 +1,35 @@
+ISim log file
+Running: C:\Xilinx\Projects\PCI\testdevice_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Xilinx/Projects/PCI/testdevice_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 206.  For instance testdevice/d1/, width 4 of formal port C_be is not equal to width 32 of actual signal bus.
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 205.  For instance testdevice/d1/, width 32 of formal port bus is not equal to width 4 of actual signal C_be.
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 208.  For instance testdevice/d1/, width 1 of formal port transactionType is not equal to width 5 of actual variable number1. 
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 209.  For instance testdevice/d1/, width 5 of formal port transactionsize is not equal to width 32 of actual variable myaddress1. 
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 201.  For instance testdevice/d1/, width 32 of formal port myaddress is not equal to width 1 of actual signal request1.
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 206.  For instance testdevice/d2/, width 4 of formal port C_be is not equal to width 32 of actual signal bus.
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 205.  For instance testdevice/d2/, width 32 of formal port bus is not equal to width 4 of actual signal C_be.
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 208.  For instance testdevice/d2/, width 1 of formal port transactionType is not equal to width 5 of actual variable number2. 
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 209.  For instance testdevice/d2/, width 5 of formal port transactionsize is not equal to width 32 of actual variable myaddress2. 
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 201.  For instance testdevice/d2/, width 32 of formal port myaddress is not equal to width 1 of actual signal request2.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 192.  For instance testdevice/d1/, width 4 of formal port C_be is not equal to width 32 of actual signal bus.
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 191.  For instance testdevice/d1/, width 32 of formal port bus is not equal to width 4 of actual signal C_be.
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 194.  For instance testdevice/d1/, width 1 of formal port transactionType is not equal to width 5 of actual variable number1. 
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 195.  For instance testdevice/d1/, width 5 of formal port transactionsize is not equal to width 32 of actual variable myaddress1. 
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 188.  For instance testdevice/d1/, width 32 of formal port myaddress is not equal to width 1 of actual signal request1.
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 192.  For instance testdevice/d2/, width 4 of formal port C_be is not equal to width 32 of actual signal bus.
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 191.  For instance testdevice/d2/, width 32 of formal port bus is not equal to width 4 of actual signal C_be.
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 194.  For instance testdevice/d2/, width 1 of formal port transactionType is not equal to width 5 of actual variable number2. 
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 195.  For instance testdevice/d2/, width 5 of formal port transactionsize is not equal to width 32 of actual variable myaddress2. 
+WARNING: File "C:/Xilinx/Projects/PCI/pci (4).v" Line 188.  For instance testdevice/d2/, width 32 of formal port myaddress is not equal to width 1 of actual signal request2.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

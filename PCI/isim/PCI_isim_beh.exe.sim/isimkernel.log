@@ -1,0 +1,28 @@
+Command line:
+   PCI_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51858
+
+Fri Dec 28 11:22:05 2018
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5180.34 Meg
+
+ Total Signals          : 70
+ Total Nets             : 277
+ Total Signal Drivers   : 55
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 77
+ Total Traceable Variables  : 97
+ Total Scalar Nets and Variables : 1799
+
+ Total Simulation Time: 0.171875 sec
+
+ Current Memory Usage: 5494.92 Meg
+
+Fri Dec 28 11:22:49 2018
+

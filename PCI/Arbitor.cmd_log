@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Xilinx/Projects/PCI/Arbitor.xst" -ofn "C:/Xilinx/Projects/PCI/Arbitor.syr" 

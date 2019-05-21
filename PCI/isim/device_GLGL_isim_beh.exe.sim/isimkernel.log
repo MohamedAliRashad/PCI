@@ -1,0 +1,28 @@
+Command line:
+   device_GLGL_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52630
+
+Fri Dec 28 20:51:41 2018
+
+
+ Elaboration Time: 0.09375 sec
+
+ Current Memory Usage: 5180.89 Meg
+
+ Total Signals          : 26
+ Total Nets             : 127
+ Total Signal Drivers   : 12
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 15
+ Total Traceable Variables  : 38
+ Total Scalar Nets and Variables : 1364
+
+ Total Simulation Time: 0.15625 sec
+
+ Current Memory Usage: 5180.89 Meg
+
+Fri Dec 28 20:52:05 2018
+
